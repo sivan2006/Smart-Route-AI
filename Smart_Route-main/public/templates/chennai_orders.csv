@@ -1,0 +1,21 @@
+Order_ID,Customer_Name,Zone,Address,Drop_Latitude,Drop_Longitude,Category,Package_Weight_Kg,Traffic,Weather,Store_Latitude,Store_Longitude
+CHN_ORD_101,Aravindhan Swaminathan,T. Nagar,"Usman Road, T. Nagar, Chennai",13.0418,80.2341,Clothing,2.5,High,Sunny,13.0067,80.2033
+CHN_ORD_102,Meenakshi Sundaram,Mylapore,"Luz Church Road, Mylapore, Chennai",13.0368,80.2676,Jewelry,1.0,Medium,Sunny,13.0067,80.2033
+CHN_ORD_103,Karthik Raja,Adyar,"Gandhi Nagar 2nd Main Rd, Adyar, Chennai",13.0012,80.2565,Electronics,4.2,Low,Sunny,13.0067,80.2033
+CHN_ORD_104,Kanimozhi Selvaraj,Velachery,"100ft Bypass Road, Velachery, Chennai",12.9815,80.218,Cosmetics,1.8,Jam,Cloudy,13.0067,80.2033
+CHN_ORD_105,Vigneshwaran K.,Anna Nagar,"2nd Avenue, Anna Nagar East, Chennai",13.085,80.2101,Outdoors,8.5,Medium,Sunny,13.0067,80.2033
+CHN_ORD_106,Divya Balaji,Nungambakkam,"Khader Nawaz Khan Rd, Nungambakkam, Chennai",13.06,80.24,Clothing,2.0,High,Sunny,13.0067,80.2033
+CHN_ORD_107,Suresh Gopinath,OMR Thoraipakkam,"Rajiv Gandhi Salai, Thoraipakkam, Chennai",12.943,80.237,Electronics,5.0,Medium,Sunny,13.0067,80.2033
+CHN_ORD_108,Sneha Natarajan,Besant Nagar,"Elliot Beach Road, Besant Nagar, Chennai",13.0002,80.2667,Books,1.5,Low,Sunny,13.0067,80.2033
+CHN_ORD_109,Murugesan Pandian,Kilpauk,"Poonamallee High Rd, Kilpauk, Chennai",13.0784,80.2412,Grocery,6.0,Medium,Sunny,13.0067,80.2033
+CHN_ORD_110,Priya Shanmugam,Alwarpet,"TTK Road, Alwarpet, Chennai",13.0336,80.252,Cosmetics,1.2,Low,Sunny,13.0067,80.2033
+CHN_ORD_111,Vijay Raghavan,Kodambakkam,"Arcot Road, Kodambakkam, Chennai",13.0519,80.2223,Snacks,3.0,High,Sunny,13.0067,80.2033
+CHN_ORD_112,Shalini Murugesan,Royapettah,"Whites Road, Royapettah, Chennai",13.0538,80.2642,Toys,2.8,Medium,Sunny,13.0067,80.2033
+CHN_ORD_113,Anand Chandrasekar,Ashok Nagar,"1st Avenue, Ashok Nagar, Chennai",13.0373,80.2122,Home,7.2,Low,Sunny,13.0067,80.2033
+CHN_ORD_114,Deepa Venkatesh,Saidapet,"Anna Salai, Saidapet, Chennai",13.0213,80.2231,Clothing,1.9,High,Sunny,13.0067,80.2033
+CHN_ORD_115,Saravanan Muthu,Porur,"Mount Poonamallee Rd, Porur, Chennai",13.0382,80.1565,Outdoors,9.0,Medium,Sunny,13.0067,80.2033
+CHN_ORD_116,Keerthana Ramesh,Perambur,"Paper Mills Road, Perambur, Chennai",13.1143,80.2329,Books,2.1,Medium,Sunny,13.0067,80.2033
+CHN_ORD_117,Gokulnath Kannan,Guindy,"Race Course Road, Guindy, Chennai",13.0067,80.2133,Snacks,3.5,Low,Sunny,13.0067,80.2033
+CHN_ORD_118,Lavanya Sundar,Kotturpuram,"Gandhi Mandapam Rd, Kotturpuram, Chennai",13.018,80.242,Electronics,4.0,Low,Sunny,13.0067,80.2033
+CHN_ORD_119,Dinesh Kumar V.,Sholinganallur,"OMR Junction, Sholinganallur, Chennai",12.901,80.2279,Toys,3.8,High,Sunny,13.0067,80.2033
+CHN_ORD_120,Nandhini Prakash,Tambaram,"GST Road, Tambaram Sanatorium, Chennai",12.9249,80.1,Grocery,11.0,Medium,Sunny,13.0067,80.2033

@@ -1,0 +1,31 @@
+driver_id,driver_name,driver_phone,driver_age,agent_rating,start_lat,start_lon,hub_category,capacity_kg,vehicle_type,vehicle_model,speed_kmh,shift_status
+AMZ_DRV_001,Karthikeyan Subramanian,+91-9840000000,37,4.9,22.745049,75.892471,Clothing,45.0,bike,Hero Splendor Plus / EV Bike (Age: 37),38.0,AVAILABLE
+AMZ_DRV_002,Murugavel Selvam,+91-9840010003,34,4.5,12.913041,77.683237,Electronics,35.0,bike,Honda Activa 6G (Age: 34),35.0,AVAILABLE
+AMZ_DRV_003,Senthil Nathan R,+91-9840020006,23,4.4,12.914264,77.6784,Sports,45.0,bike,Hero Splendor Plus / EV Bike (Age: 23),38.0,AVAILABLE
+AMZ_DRV_004,Saravanan Natarajan,+91-9840030009,38,4.7,11.003669,76.976494,Cosmetics,45.0,bike,Hero Splendor Plus / EV Bike (Age: 38),38.0,AVAILABLE
+AMZ_DRV_005,Divya Dharshini K,+91-9840040012,32,4.6,12.972793,80.249982,Toys,35.0,bike,Honda Activa 6G (Age: 32),35.0,AVAILABLE
+AMZ_DRV_006,Venkatesan Perumal,+91-9840050015,22,4.8,17.431668,78.408321,Toys,45.0,bike,Hero Splendor Plus / EV Bike (Age: 22),38.0,AVAILABLE
+AMZ_DRV_007,Anitha Rajendran,+91-9840060018,33,4.7,23.369746,85.33982,Toys,35.0,bike,Honda Activa 6G (Age: 33),35.0,AVAILABLE
+AMZ_DRV_008,Praveen Kumar B,+91-9840070021,35,4.6,12.352058,76.60665,Snacks,45.0,bike,Hero Splendor Plus / EV Bike (Age: 35),38.0,AVAILABLE
+AMZ_DRV_009,Rajesh Sharma,+91-9840080024,22,4.8,17.433809,78.386744,Electronics,45.0,bike,Hero Splendor Plus / EV Bike (Age: 22),38.0,AVAILABLE
+AMZ_DRV_010,Amitabh Patel,+91-9840090027,36,4.2,30.327968,78.046106,Toys,45.0,bike,Hero Splendor Plus / EV Bike (Age: 36),38.0,AVAILABLE
+AMZ_DRV_011,Suresh Nair,+91-9840100030,21,4.7,10.003064,76.307589,Cosmetics,45.0,bike,Hero Splendor Plus / EV Bike (Age: 21),38.0,AVAILABLE
+AMZ_DRV_012,Vikas Malhotra,+91-9840110033,23,4.7,18.56245,73.916619,Shoes,35.0,bike,Honda Activa 6G (Age: 23),35.0,AVAILABLE
+AMZ_DRV_013,Imran Khan,+91-9840120036,34,4.3,30.899584,75.809346,Apparel,45.0,bike,Hero Splendor Plus / EV Bike (Age: 34),38.0,AVAILABLE
+AMZ_DRV_014,Deepak Joshi,+91-9840130039,24,4.7,26.463504,80.372929,Jewelry,35.0,bike,Honda Activa 6G (Age: 24),35.0,AVAILABLE
+AMZ_DRV_015,Rohan Deshmukh,+91-9840140042,29,4.5,19.176269,72.836721,Outdoors,300.0,van,Tata Ace Gold Delivery Van (Age: 29),40.0,AVAILABLE
+AMZ_DRV_016,Gaurav Sen,+91-9840150045,35,4.0,12.311072,76.654878,Grocery,35.0,bike,Honda Activa 6G (Age: 35),35.0,AVAILABLE
+AMZ_DRV_017,Manoj Tiwari,+91-9840160048,33,4.2,18.592718,73.773572,Cosmetics,45.0,bike,Hero Splendor Plus / EV Bike (Age: 33),38.0,AVAILABLE
+AMZ_DRV_018,Kavitha Ranganathan,+91-9840170051,34,4.9,17.426228,78.407495,Snacks,45.0,bike,Hero Splendor Plus / EV Bike (Age: 34),38.0,AVAILABLE
+AMZ_DRV_019,Arun Pandian,+91-9840180054,21,4.7,22.552672,88.352885,Jewelry,45.0,bike,Hero Splendor Plus / EV Bike (Age: 21),38.0,AVAILABLE
+AMZ_DRV_020,Vijay Sethupathi,+91-9840190057,25,4.1,18.563934,73.915367,Toys,45.0,bike,Hero Splendor Plus / EV Bike (Age: 25),38.0,AVAILABLE
+AMZ_DRV_021,Meenakshi Sundaram,+91-9840200060,31,4.7,23.357804,85.325146,Books,300.0,van,Tata Ace Gold Delivery Van (Age: 31),40.0,AVAILABLE
+AMZ_DRV_022,Suresh Gopinath,+91-9840210063,33,4.3,12.986047,80.218114,Snacks,35.0,bike,Honda Activa 6G (Age: 33),35.0,AVAILABLE
+AMZ_DRV_023,Preeti Vasudevan,+91-9840220066,25,4.0,19.221315,72.862381,Jewelry,45.0,bike,Hero Splendor Plus / EV Bike (Age: 25),38.0,AVAILABLE
+AMZ_DRV_024,Dinesh Chandran,+91-9840230069,29,4.5,13.005801,80.250744,Outdoors,300.0,van,Tata Ace Gold Delivery Van (Age: 29),40.0,AVAILABLE
+AMZ_DRV_025,Aarav Mehta,+91-9840240072,27,5.0,26.849596,75.800512,Cosmetics,45.0,bike,Hero Splendor Plus / EV Bike (Age: 27),38.0,AVAILABLE
+AMZ_DRV_026,Sneha Kulkarni,+91-9840250075,35,4.3,21.160522,72.771477,Electronics,35.0,bike,Honda Activa 6G (Age: 35),35.0,AVAILABLE
+AMZ_DRV_027,Priya Shah,+91-9840260078,32,4.0,12.934179,77.615797,Cosmetics,45.0,bike,Hero Splendor Plus / EV Bike (Age: 32),38.0,AVAILABLE
+AMZ_DRV_028,Aditya Roy,+91-9840270081,23,4.8,18.51421,73.838429,Jewelry,300.0,van,Tata Ace Gold Delivery Van (Age: 23),40.0,AVAILABLE
+AMZ_DRV_029,Manish Bansal,+91-9840280084,31,4.8,11.022477,76.995667,Jewelry,45.0,bike,Hero Splendor Plus / EV Bike (Age: 31),38.0,AVAILABLE
+AMZ_DRV_030,Ritu Singhania,+91-9840290087,36,4.1,21.160437,72.774209,Cosmetics,45.0,bike,Hero Splendor Plus / EV Bike (Age: 36),38.0,AVAILABLE

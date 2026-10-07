@@ -1,0 +1,9 @@
+Order_ID,Customer_Name,Store_Latitude,Store_Longitude,Drop_Latitude,Drop_Longitude,Category,Traffic,Weather,Package_Weight_Kg,Address,Zone
+AMZ_ORD_001,Ravi Kumar,12.9716,77.5946,12.9352,77.6146,Electronics,Medium,Sunny,2.5,Koramangala 5th Block,Koramangala
+AMZ_ORD_002,Anita Desai,12.9716,77.5946,12.9716,77.6412,Cosmetics,High,Sunny,1.2,100ft Road Indiranagar,Indiranagar
+AMZ_ORD_003,Sanjay Rao,12.9716,77.5946,12.9698,77.7499,Outdoors,Jam,Stormy,6.0,ITPB Whitefield,Whitefield
+AMZ_ORD_004,Meena Shah,12.9716,77.5946,13.0095,77.5670,Clothing,Low,Sunny,1.8,Sampige Road Malleshwaram,Malleshwaram
+AMZ_ORD_005,Karthik Iyer,12.9716,77.5946,13.0358,77.5970,Toys,Medium,Cloudy,3.2,Bellary Road Hebbal,Hebbal
+AMZ_ORD_006,Priya Sharma,12.9716,77.5946,12.9142,77.6784,Books,Low,Sunny,1.0,Bellandur EcoSpace,Bellandur
+AMZ_ORD_007,Vikram Malhotra,12.9716,77.5946,12.9250,77.5938,Snacks,High,Sunny,4.5,Jayanagar 4th Block,Jayanagar
+AMZ_ORD_008,Deepak Joshi,12.9716,77.5946,12.9910,77.5560,Jewelry,Medium,Sunny,0.8,Rajajinagar 2nd Stage,Rajajinagar

@@ -1,0 +1,6 @@
+driver_id,driver_name,driver_phone,driver_age,agent_rating,vehicle_type,capacity_kg,hub_category,speed_kmh,shift_status
+AMZ_DRV_001,Karthikeyan Subramanian,+91-9876543201,34,4.8,bike,45.0,Clothing,38.0,AVAILABLE
+AMZ_DRV_002,Murugavel Selvam,+91-9876543202,29,4.7,bike,35.0,Electronics,35.0,AVAILABLE
+AMZ_DRV_004,Saravanan Natarajan,+91-9876543203,31,4.9,bike,45.0,Cosmetics,38.0,AVAILABLE
+AMZ_DRV_015,Rohan Deshmukh,+91-9876543204,38,4.9,van,300.0,Outdoors,40.0,AVAILABLE
+AMZ_DRV_021,Meenakshi Sundaram,+91-9876543205,36,4.6,van,300.0,Books,40.0,AVAILABLE
